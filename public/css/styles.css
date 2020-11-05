@@ -1,0 +1,38 @@
+#signup{
+    font-family: 'Times New Roman', Times, serif;
+    -moz-box-shadow: 10px 1px 15px rgba(68,68,68,0.6);
+	-webkit-box-shadow: 15px 15px 15px rgba(68,68,68,0.6);
+	box-shadow: 15px 15px 15px rgba(68,68,68,0.6);
+
+	filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30)";
+    zoom: 1;
+    height: auto;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+#login{
+    font-family: 'Times New Roman', Times, serif;
+    -moz-box-shadow: 10px 1px 15px rgba(68,68,68,0.6);
+	-webkit-box-shadow: 15px 15px 15px rgba(68,68,68,0.6);
+	box-shadow: 15px 15px 15px rgba(68,68,68,0.6);
+
+	filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Blur(PixelRadius=3,MakeShadow=true,ShadowOpacity=0.30)";
+    zoom: 1;
+    height: auto;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.navbar.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
